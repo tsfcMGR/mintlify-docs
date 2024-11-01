@@ -77,6 +77,18 @@
         "dao",
         "quill"
       ]
+    },
+    {
+      "group": "Partners",
+      "pages": [
+        "partners"
+      ]
+    },
+    {
+      "group": "Conclusion",
+      "pages": [
+        "conclusion"
+      ]
     }
   ],
   "footerSocials": {
