@@ -62,26 +62,20 @@
     {
       "group": "TSFC App",
       "pages": [
-        "tsfcapp",
-        "roadmap",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "tsfcapp"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Road Map",
       "pages": [
-        "api-reference/introduction"
+        "roadmap"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Tokenomics",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "dao",
+        "quill"
       ]
     }
   ],
