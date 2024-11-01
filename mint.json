@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Privacy Policy",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://tsfc.io/docs/privacy-policy.pdf"
     },
     {
-      "name": "Community",
+      "name": "AML/KYC Policy",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://tsfc.io/docs/kyc-policy.pdf"
     },
     {
-      "name": "Blog",
+      "name": "Terms of Services",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://tsfc.io/docs/terms-of-services.pdf"
     }
   ],
   "navigation": [
