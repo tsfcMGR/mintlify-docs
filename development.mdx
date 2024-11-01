@@ -12,6 +12,7 @@ By connecting to TSFC via API, the user grants access to trading while keeping f
 ## 3. Success Fee
 The client pays 30% of profit only for successful investments once a quarter. The system uses the Base Deposit Amount (BDA), which changes only when the client deposits or withdraws funds.
 Fee is calculated using the formula:
+
 > Fee = (Total - BDA) * 0.3
 
 This means that if a profit is earned on the account and then a drawdown occurs, the fee will be charged only after the loss is compensated and a new profit is generated. Thus, the commission is charged only on the net profit for the periods covering the previous losses.
