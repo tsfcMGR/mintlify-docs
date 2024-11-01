@@ -1,9 +1,8 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "TSFC",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://i.imgur.com/L2lqfqx.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
