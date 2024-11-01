@@ -60,9 +60,9 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "TSFC App",
       "pages": [
-        "essentials/markdown",
+        "tsfcapp",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
