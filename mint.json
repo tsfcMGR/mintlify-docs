@@ -5,9 +5,9 @@
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
-    },
-
-  },
+    }
+   
+   }
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -98,4 +98,4 @@
     "github": "https://github.com/",
     "linkedin": "https://www.linkedin.com/company/tsfcio"
   }
-}
+ 
