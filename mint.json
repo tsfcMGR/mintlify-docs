@@ -63,19 +63,19 @@
     {
       "group": "TSFC App",
       "pages": [
-        "tsfcapp"
-      ]
-    },
-    {
-      "group": "Road Map",
-      "pages": [
-        "roadmap",
+        "tsfcapp",
         "step1",
         "step2",
         "step3",
         "step4",
         "step5",
         "finalstep"
+      ]
+    },
+    {
+      "group": "Road Map",
+      "pages": [
+        "roadmap"
       ]
     },
     {
