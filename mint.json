@@ -4,7 +4,7 @@
   "name": "TSFC",
   "logo": {
     "dark": "https://tsfc.io/icons/logo.svg",
-    "light": "/logo/light.svg"
+    "light": "https://tsfc.io/icons/logo.svg"
    },
   "favicon": "/favicon.svg",
   "colors": {
