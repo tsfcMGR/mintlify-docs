@@ -3,7 +3,8 @@
     "name": "Starter Kit",
   "name": "TSFC",
   "logo": {
-    "dark": "https://tsfc.io/icons/logo.svg"
+    "dark": "https://tsfc.io/icons/logo.svg",
+    "light": "/logo/light.svg"
    },
   "favicon": "/favicon.svg",
   "colors": {
